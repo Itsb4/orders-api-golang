@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Itsb4/orders-api-golang/application"
+	"github.com/it-shubham/orders-api-golang/application"
 )
 
 func main() {

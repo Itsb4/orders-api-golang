@@ -1,4 +1,4 @@
-module github.com/Itsb4/orders-api-golang
+module github.com/it-shubham/orders-api-golang
 
 go 1.21.1
 

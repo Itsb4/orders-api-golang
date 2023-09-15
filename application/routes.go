@@ -3,9 +3,9 @@ package application
 import (
 	"net/http"
 
-	"github.com/Itsb4/orders-api-golang/handler"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
+	"github.com/it-shubham/orders-api-golang/handler"
 )
 
 func loadRoutes() *chi.Mux {
